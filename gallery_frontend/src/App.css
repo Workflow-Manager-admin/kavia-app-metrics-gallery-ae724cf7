@@ -1,12 +1,17 @@
 /* CSS Variables for Theme Management */
 :root {
   /* Light theme colors */
+  --kavia-primary: #2563eb;
+  --kavia-secondary: #64748b;
+  --kavia-accent: #d97706;
+  --kavia-orange: #e87a41;
+
   --bg-primary: #ffffff;
   --bg-secondary: #f8f9fa;
   --text-primary: #282c34;
-  --text-secondary: #61dafb;
+  --text-secondary: #6b7280;
   --border-color: #e9ecef;
-  --button-bg: #007bff;
+  --button-bg: #2563eb;
   --button-text: #ffffff;
 }
 
